@@ -97,3 +97,23 @@ This process repeats until the global model converges and achieves high accuracy
                 |      Updated Global Model       |
                 +--------------------------------+
 
+
+🌟 Key Features
+
+🔐 Privacy Preservation – Only model weights are shared; patient data never leaves local storage.
+
+🧠 Collaborative Learning – Multiple medical centers train together to improve global accuracy.
+
+⚙️ Federated Averaging – Implements the FedAvg algorithm for model synchronization.
+
+📶 Low Communication Overhead – Efficient transmission of model updates instead of entire datasets.
+
+💾 Modular Architecture – Scalable to more clients or new diseases.
+
+📈 Visualization Tools – Graphs for accuracy, loss, and communication rounds.
+
+🏥 Healthcare-Ready Design – Complies with medical data privacy standards.
+
+⚡ Performance Optimization – Supports parallel training and aggregation.
+
+🌐 Cross-Platform Support – Works seamlessly across devices and institutions.
